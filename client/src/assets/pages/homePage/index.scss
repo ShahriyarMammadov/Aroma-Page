@@ -12,7 +12,7 @@
       margin-top: 15%;
     }
 
-    @media only screen and (max-width: 1600px) {
+    @media only screen and (max-width: 1400px) {
       img {
         margin: 0;
       }
@@ -32,6 +32,7 @@
 
   .right {
     width: 30%;
+    margin-left: 10%;
 
     @media only screen and (max-width: 777px) {
       margin-left: -40%;
